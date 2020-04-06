@@ -211,6 +211,6 @@ Para ejecutar este proyecto sin tener que descargar la biblioteca, tener un edit
 - [4] Extrapixel. [GifAnimation Processing Library.](https://github.com/extrapixel/gif-animation)
 - [5] Lauren McCarthy. [p5.js](https://p5js.org/)
 - [6] Icons8 LLC. [Iconos del menú utilizados.](https://icons8.com/icons)
-- [7] Font Squirrel. [Fuente utilizada (*Montserrat Regular*).](Font Squirrel)
+- [7] Font Squirrel. [Fuente utilizada (*Montserrat Regular*).](https://icons8.com/)
 - [8] Nicke Manarin. [ScreenToGif.](https://www.screentogif.com/)
 

@@ -233,7 +233,6 @@ function manageEraser(){
 }
 
 function manageColors(){
-  rect(i*0.025*width + 0.5*width, 0.0225*height, 15, 15);
   for(var i = 0; i < 10; i++){
     if (mouseX > i*0.025*width + 0.5*width && mouseX < i*0.025*width + 0.5*width + 15 &&
         mouseY > 0.0225*height && mouseY < 0.0225*height + 15){
